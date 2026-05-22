@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Live placeholder 2">
+  <rect width="900" height="620" fill="#0d0b12"/>
+  <path d="M0 0 L900 0 L900 420 C680 370 520 470 330 420 C180 380 90 430 0 390 Z" fill="#1d1830"/>
+  <circle cx="250" cy="220" r="180" fill="#f7c873" opacity=".2"/>
+  <circle cx="650" cy="260" r="210" fill="#64d2ff" opacity=".2"/>
+  <text x="42" y="555" fill="#f5f7fb" font-family="Arial, sans-serif" font-size="38" font-weight="800">REPLACE IMAGE</text>
+</svg>

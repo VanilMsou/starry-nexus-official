@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-label="Release cover placeholder">
+  <rect width="800" height="800" fill="#090a12"/>
+  <circle cx="400" cy="390" r="245" fill="none" stroke="#64d2ff" stroke-width="8" opacity=".65"/>
+  <circle cx="400" cy="390" r="150" fill="none" stroke="#ff5c97" stroke-width="5" opacity=".65"/>
+  <path d="M170 455 C300 250 500 540 630 335" fill="none" stroke="#f7c873" stroke-width="10"/>
+  <text x="80" y="690" fill="#f5f7fb" font-family="Arial, sans-serif" font-size="54" font-weight="800">COVER</text>
+  <text x="80" y="745" fill="#aeb6c9" font-family="Arial, sans-serif" font-size="28">Replace with artwork</text>
+</svg>

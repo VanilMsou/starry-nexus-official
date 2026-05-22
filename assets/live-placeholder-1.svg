@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-label="Live placeholder 1">
+  <rect width="900" height="1100" fill="#0b0d14"/>
+  <path d="M0 740 C260 610 470 625 900 500 L900 1100 L0 1100 Z" fill="#162234"/>
+  <circle cx="650" cy="270" r="210" fill="#64d2ff" opacity=".18"/>
+  <circle cx="300" cy="360" r="170" fill="#ff5c97" opacity=".2"/>
+  <g fill="#f5f7fb" opacity=".76">
+    <rect x="225" y="580" width="62" height="310"/>
+    <rect x="415" y="520" width="70" height="370"/>
+    <rect x="610" y="600" width="56" height="290"/>
+  </g>
+  <text x="60" y="1010" fill="#f5f7fb" font-family="Arial, sans-serif" font-size="46" font-weight="800">LIVE PHOTO</text>
+</svg>

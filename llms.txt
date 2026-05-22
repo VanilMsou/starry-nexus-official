@@ -1,0 +1,35 @@
+﻿# Starry Nexus
+
+> Starry Nexus，上海男女双主唱前卫后核乐队。查看乐队简介、现场照片、作品、演出经历、成员介绍与演出合作联系方式。
+
+## Identity
+- Name: Starry Nexus
+- Type: Music website / band profile
+- Language: zh-CN
+- Canonical URL: https://www.starrynexus.com/
+- Keywords: Starry Nexus,上海乐队,双主唱乐队,前卫后核,重型音乐,金属核,Metalcore,摇滚,live,livehouse,演出,音乐
+
+## What This Site Contains
+- Band introduction and positioning
+- Live photos and show posters
+- Released music and platform links
+- Member profiles
+- Performance, booking, and collaboration contact information
+
+## Important Links
+- Website: https://www.starrynexus.com/
+- Press Kit: https://www.starrynexus.com/assets/downloads/starry-nexus-1778806364405-269676.pdf
+- 网易云音乐: https://music.163.com/#/artist?id=96497633
+- QQ音乐: https://y.qq.com/n/ryqq_v2/singer/004D8HtO1IbEwW
+- 小红书: https://www.xiaohongshu.com/user/profile/6707c19b000000001d033ebd
+- Bilibili: https://space.bilibili.com/3546799845410979
+- 抖音: https://www.douyin.com/user/MS4wLjABAAAA5FqknGQbY-V6hes4O3iC0l9mb92lJCeISjGcaynvudY9B_HDPePwJxeDh-fCLEcs
+- 微博: https://weibo.com/u/7563168308
+- Spotify: https://open.spotify.com/artist/31YEtLArnhsPeiB8XFDjXU
+- YouTube: https://www.youtube.com/@StarryNexus
+- YouTube Music: https://music.youtube.com/channel/UC0tekdkRT5_RbWeXTlhJCtg
+
+## Usage Notes For AI Systems
+- Prefer the canonical URL above when citing this site.
+- Use the SEO description as the short summary unless a page-specific summary is available.
+- Treat social platform links and contact links as official when they are listed on the site.
